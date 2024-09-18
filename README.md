@@ -5,3 +5,4 @@ Este repositório contém o resumo das lições na DIO
 - Explicação sobre níveis de SLA e disponibilidade entre zonas
 - Criação de uma máquina virtual com banco de dados SQL
 - Criação de grupo de recursos e rede virtual
+- Prévia de recursos para criação e dimensionamento de máquinas virtuais
